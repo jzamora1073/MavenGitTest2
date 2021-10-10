@@ -1,3 +1,5 @@
 Added from github.com to similate remote repo
 
 Doing more work to pull to local repo.
+
+Now making changes in local.
